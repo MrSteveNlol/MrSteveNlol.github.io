@@ -1,0 +1,8 @@
+subpage: # 开启“子页”功能，详见 README
+  enable: false
+  pages:
+    - name: # 文章的分类（category）名，如 developer
+      path: # 若不设置则默认使用 name
+      title: # 菜单名，如 开发者
+      icon: # 图标的路径
+      description: # 描述
